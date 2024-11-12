@@ -1,59 +1,66 @@
-.clasds{
-    border-radius: 20px; 
-    border: none;
-    background-color: rgb(190, 202, 202);
+.hello{
+    color: blue;
     text-align: center;
-    border: 5px solid rgb(211, 90, 90);
+    font-size: 30px;
 }
-i{
-    color: red;
-}
-h2{
-    color: green;
-}
-.h3{
-    border-radius: 3px;
-    background-color: yellow;
-    color: green;
+.poka{
+    background-color: aqua;
     text-align: center;
-    width: 100%;
+    font-size: 30px;
+    border-radius: 50px;
 }
-.bye{
-    color: green;
+.blac{
+    background-color: black;
+    color: white;
 }
-.input{
-    width: 100%;
+.fine{
+    background-color: red;
+    text-align: center;
+    font-size: 46px;
+    border-radius: 50px;
 }
-input{
-    font-size: 20px;
-    border-radius: 18px;
+.one{
+border-radius: 20px;
+color: black;
 }
-input::placeholder{
-    font-size: medium; }
-    .send-btn{
-        color: white;
-        background-color: rgb(117, 117, 204);
-        border-radius: 0px;
-    }
-    table,th,td{
-        border: 2px solid rgb(255, 255, 255);
-        border-collapse: collapse;
-        width: 50%;
-        text-align: center;
-    }
-    .green{
-        background-color: green;
-        color: white;
-    }
-    .blue{
-        background-color: blue;
-        color: white;
-    }
-    .red{
-        background-color: red;
-        color: white;
-    }
-    .black{
-        background-color: black;
-        color: white;
-    }
+.two{
+    color: white;
+}
+.three{
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+   font-size: 30px;
+}
+.four{
+    background-color: rgb(163, 49, 49);
+    color: white;
+    border-radius: 8px;
+    font-size: 30px ;
+}
+.css{
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    font-size: 30px;
+}
+.first{
+    background-color: white;
+    text-align: center;
+}
+.five{
+ color: aqua;
+}
+.six{
+    background-color: blue;
+    color: white;
+}
+.seven{
+    background-color: orange;
+    color: white;
+    font-size: 35px;
+}
+.eight{
+    background-color: black;
+    text-align: center;
+}
