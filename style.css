@@ -1,0 +1,59 @@
+.clasds{
+    border-radius: 20px; 
+    border: none;
+    background-color: rgb(190, 202, 202);
+    text-align: center;
+    border: 5px solid rgb(211, 90, 90);
+}
+i{
+    color: red;
+}
+h2{
+    color: green;
+}
+.h3{
+    border-radius: 3px;
+    background-color: yellow;
+    color: green;
+    text-align: center;
+    width: 100%;
+}
+.bye{
+    color: green;
+}
+.input{
+    width: 100%;
+}
+input{
+    font-size: 20px;
+    border-radius: 18px;
+}
+input::placeholder{
+    font-size: medium; }
+    .send-btn{
+        color: white;
+        background-color: rgb(117, 117, 204);
+        border-radius: 0px;
+    }
+    table,th,td{
+        border: 2px solid rgb(255, 255, 255);
+        border-collapse: collapse;
+        width: 50%;
+        text-align: center;
+    }
+    .green{
+        background-color: green;
+        color: white;
+    }
+    .blue{
+        background-color: blue;
+        color: white;
+    }
+    .red{
+        background-color: red;
+        color: white;
+    }
+    .black{
+        background-color: black;
+        color: white;
+    }
